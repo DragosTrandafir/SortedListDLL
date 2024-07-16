@@ -1,7 +1,7 @@
 # SortedListDLL
 ADT SortedList (interface with TPOZItion = Iterator - SortedIteratedList) - using a DLL where elements are ordered based on a relation
 
-C++ representation of Sorted Iterated List as an abstract data type - using DOUBLE LINKED LIST 
+C++ representation of Sorted Iterated List as an abstract data type - using DOUBLY LINKED LIST 
 This repository offers a representation of a Sorted Iterated List, having implemented multiple header and cpp files, together with some tests.
 
 The ListIterator.h and its cpp offer the header and the representation of an iterator which let us run through the list and perform multiple operations.
